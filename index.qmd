@@ -1,5 +1,5 @@
 ---
-title: "Web"
+title: "Fundamentals of Programming Languages"
 ---
 
 This is a Quarto website.

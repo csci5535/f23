@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Web"
+  title: "CSCI 5535 & ECEN 5533 - Fall 2023 - Fundamentals of Programming Languages"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
