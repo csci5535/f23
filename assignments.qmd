@@ -10,7 +10,7 @@ Homework solutions should be submitted by 6:00 p.m. on the due date (with an aut
   
 **Due Friday, September 8, 2023**
 
-<!-- - [Handout](assignments/hw0.pdf) -->
+- [Handout](https://github.com/csci5535-f23/hw00/blob/main/hw00.pdf)
 
 # Class Participation and Online Discussion
 
