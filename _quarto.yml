@@ -8,13 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - schedule.qmd
+      - href: assignments.qmd
+        text: Assignments
 
 format:
   html:
-    theme: flatly
+    theme: yeti
     css: styles.css
     toc: true
+    toc-depth: 1
 
 
 
