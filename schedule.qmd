@@ -1,0 +1,52 @@
+---
+title: "Schedule"
+---
+
+The following schedule lists the topics we will cover and approximately the number of meetings we will spend on each topic. The schedule is _tentative_. Most likely, some things will change during the semester, and I will revise the schedule as necessary.
+
+The **Reading** column lists the assigned reading for the meeting. You should view the readings as an introduction to spark discussion in class.
+
+The **Assignment** column lists the due date for each assignment.
+
+The readings will be classified into the following order of recommendation:
+
+1. Advised (i.e., expected, required, and of highest importance) — assigned.
+2. Recommended (i.e., important but read after previous category) — assigned.
+3. Supplemental (i.e., additional material for a different perspective) – optional.
+4. Fun (i.e., related fun additional material) – optional.
+
+| Week |  | Date | Topic | Reading | Assignment |
+|---|---|---|---|---|---|
+| 1 | T | 8/29 | Welcome and course overview |  | Post a note on Piazza to introduce yourself. |
+|  | R | 8/31 | Classic application: Model checking and counterexample-guided abstraction refinement | **Supplemental**. Thomas Ball and Sriram K. Rajamani. [The SLAM Project: Debugging System Software via Static Analysis](http://doi.acm.org/10.1145/503272.503274). Symposium on Principles of Programming Languages (POPL), 2002.<br/>**Supplemental**. Thomas Ball and Sriram K. Rajamani. [Automatically Validating Temporal Safety Properties of Interfaces](http://www.springerlink.com/content/4157551823741422/?p=786a651cbd8647c7be999c4795db0c01&pi=6). International SPIN Workshop, 2001.<br/> **Recommended**. Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, and Gregoire Sutre. [Lazy Abstraction](http://doi.acm.org/10.1145/503272.503279). Symposium on Principles of Programming Languages (POPL), 2002. |  |
+| 2 | T | 9/5 | Judgments and rules | **Advised**. Harper Ch. 1-2 |  |
+|  | R | 9/7 | Judgments and rules | **Advised**. Harper Ch. 3 | HW0 due Fri |
+| 3 | T | 9/12 | Statics and dynamics | **Advised**. Harper Ch. 4-5 |  |
+|  | R | 9/14 | Statics and dynamics |  |  |
+| 4 | T | 9/19 | Type safety | **Advised**. Harper Ch. 6-7 |  |
+|  | R | 9/21 | Type safety |  | HW1 due Fri |
+| 5 | T | 9/26 | Imperative computation | **Advised**. Winskel Ch. 2<br/> **Recommended**. Harper Ch. 34 |  |
+|  | R | 9/28 | Imperative computation |  |  |
+| 6 | T | 10/3 | Functions | **Advised**. Harper Ch. 8-9 |  |
+|  | R | 10/5 | Finite data types | **Advised**. Harper Ch. 10-11 | HW3 due Fri |
+| 7 | T | 10/10 | Denotational semantics | **Advised**. Winskel Ch. 5 |  |
+|  | R | 10/12 | Denotational semantics |  |  |
+| 8 | T | 10/17 | Recursive types |  |  |
+|  | R | 10/19 | Parametric polymorphism |  | HW4 due Fri |
+| 9 | T | 10/24 | Axiomatic semantics |  |  |
+|  | R | 10/26 | Axiomatic semantics |  |  |
+| 10 | T | 10/31 | Control flow: Exceptions and continuations |  |  |
+|  | R | 11/2 | Control flow: Exceptions and continuations |  |  |
+| 11 | T | 11/7 | Verification-condition generation |  |  |
+|  | R | 11/9 | Verification-condition generation |  |  |
+| 12 | T | 11/14 | Abstract interpretation |  |  |
+|  | R | 11/16 | Abstract interpretation |  |  |
+| 13 | T | 11/21 | No class: Thanksgiving |  |  |
+|  | R | 11/23 | No class: Thanksgiving |  |  |
+| 14 | T | 11/28 | Research application |  |  |
+|  | R | 11/30 | Research application |  |  |
+| 15 | T | 12/5 | Final exam review |  |  |
+|  | R | 12/7 | Final exam: evening (time TBD) |  |  |
+| 16 | T | 12/12 | Final project presentations |  |  |
+|  | R | 12/14 | Final project presentations |  |  |
+| 17 | T | 12/19 | Finals week |  |  |
