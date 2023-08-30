@@ -17,7 +17,7 @@ The readings will be classified into the following order of recommendation:
 
 | Week |  | Date | Topic | Reading | Assignment |
 |---|---|---|---|---|---|
-| 1 | T | 8/29 | Welcome and course overview |  | Post a note on Piazza to introduce yourself. |
+| 1 | T | 8/29 | Welcome and course overview<br/> [meeting01] |  | Post a note on Piazza to introduce yourself. |
 |  | R | 8/31 | Classic application: Model checking and counterexample-guided abstraction refinement | **Supplemental**. Thomas Ball and Sriram K. Rajamani. [The SLAM Project: Debugging System Software via Static Analysis](http://doi.acm.org/10.1145/503272.503274). Symposium on Principles of Programming Languages (POPL), 2002.<br/>**Supplemental**. Thomas Ball and Sriram K. Rajamani. [Automatically Validating Temporal Safety Properties of Interfaces](http://www.springerlink.com/content/4157551823741422/?p=786a651cbd8647c7be999c4795db0c01&pi=6). International SPIN Workshop, 2001.<br/> **Recommended**. Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, and Gregoire Sutre. [Lazy Abstraction](http://doi.acm.org/10.1145/503272.503279). Symposium on Principles of Programming Languages (POPL), 2002. |  |
 | 2 | T | 9/5 | Judgments and rules | **Advised**. Harper Ch. 1-2 |  |
 |  | R | 9/7 | Judgments and rules | **Advised**. Harper Ch. 3 | HW0 due Fri |
@@ -50,3 +50,5 @@ The readings will be classified into the following order of recommendation:
 | 16 | T | 12/12 | Final project presentations |  |  |
 |  | R | 12/14 | Final project presentations |  |  |
 | 17 | T | 12/19 | Finals week |  |  |
+
+[meeting01]: meetings/meeting01-welcome.class.pdf
