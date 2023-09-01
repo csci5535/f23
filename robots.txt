@@ -1,1 +1,1 @@
-Sitemap: https://csci5535.github.io/f23/sitemap.xml
+Sitemap: https://csci5535.cs.colorado.edu/f23/sitemap.xml
