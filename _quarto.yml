@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "CSCI 5535 & ECEN 5533 - Fall 2023 - Fundamentals of Programming Languages"
+  title: "CSCI 5535 & ECEN 5533 - Fall 2023"
   navbar:
     left:
       - href: index.qmd
@@ -11,13 +11,22 @@ website:
       - schedule.qmd
       - href: assignments.qmd
         text: Assignments
+    right:
+      - href: https://canvas.colorado.edu/courses/98075
+        text: Canvas
+      - href: https://piazza.com/class/llw1irfr53m694
+        text: Piazza
+    tools:
+      - href: https://github.com/csci5535-f23
+        icon: github
+  repo-url: https://github.com/csci5535/f23
+  repo-actions: [source, edit]
 
 format:
   html:
     theme: yeti
     css: styles.css
     toc: true
-    toc-depth: 1
 
 
 
