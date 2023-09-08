@@ -57,8 +57,6 @@ Airbus to analyze their flight control software).
 The last part of the course covers special topics drawn from research in areas
 such as applications of program semantics to program analysis and verification.
 
-For more on the course philosophy, see [Why Study Programming Languages?](https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html) by Robert Harper.
-
 # Prerequisites
 
 The prerequisites for this course are programming and mathematical experience
