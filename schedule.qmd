@@ -23,10 +23,10 @@ The readings will be classified into the following order of recommendation:
 |  | R | 8/31 | Classic application: Model checking and counterexample-guided abstraction refinement<br/> [meeting02] [meeting02-hw00] [meeting02-slides] | **Supplemental**. Thomas Ball and Sriram K. Rajamani. [The SLAM Project: Debugging System Software via Static Analysis](http://doi.acm.org/10.1145/503272.503274). Symposium on Principles of Programming Languages (POPL), 2002.<br/>**Supplemental**. Thomas Ball and Sriram K. Rajamani. [Automatically Validating Temporal Safety Properties of Interfaces](https://doi.org/10.1007/3-540-45139-0_7). International SPIN Workshop, 2001.<br/> **Recommended**. Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, and Gregoire Sutre. [Lazy Abstraction](http://doi.acm.org/10.1145/503272.503279). Symposium on Principles of Programming Languages (POPL), 2002.<br/><br/> Software model checking with counterexample-guided abstraction refinement marked a major milestone in taking automated reasoning techniques into industrial practice. |  |
 | 2 | T | 9/5 | Judgments and rules | **Advised**. Harper Ch. 1.1; Winskel Ch. 1 and 3.1-3.3.<br/> Provides some preliminaries for HW0 (optional depending on your background). Rest of Harper Ch. 1 is helpful but "supplemental" for HW0.<br/><br/> **Supplemental**. Pierce Ch. 2 and 3.1-3.3.<br/> Another take on mathematical preliminaries for HW0 (optional depending on your background). |  |
 |  | R | 9/7 | Judgments and rules | **Advised**. Harper Ch. 2.<br/> It is ok to skim 2.4 and 2.6-2.7 for now. | HW0 due Fri |
-| 3 | T | 9/12 | Statics and dynamics | **Advised**. Harper Ch. 3. |  |
-|  | R | 9/14 | Statics and dynamics | **Advised**. Harper Ch. 4-5 |  |
-| 4 | T | 9/19 | Type safety | **Advised**. Harper Ch. 6-7 |  |
-|  | R | 9/21 | Type safety |  | HW1 due Fri |
+| 3 | T | 9/12 | Statics and dynamics | **Advised**. Harper Ch. 3<br/> It is ok to skim 3.3-3.4 for now.<br/><br/> **Advised**. Winskel Ch. 2<br/> Sections 2.1-2.5 defines a big-step operational semantics for a simple imperative language IMP. Then, Section 2.6 sketches a small-step operational semantics. |  |
+|  | R | 9/14 | Statics and dynamics | **Advised**. Harper Ch. 4-5 and 7.1-7.2<br/> It is ok to skim 5.4 for now.<br/><br/> **Recommended**. Pierce 3.4<br/> A high-level overview of the three basic approaches to formalizing semantics. |  |
+| 4 | T | 9/19 | Type safety | **Advised**. Harper Ch. 6 and 7.3<br/> About type safety.<br/><br/> **Supplemental**. Pierce 3.5 and Ch. 8<br/> Another take on operational semantics and type safety. |  |
+|  | R | 9/21 | Type safety | **Advised**. Harper 2.4; Winskel 3.4 and Ch. 4<br/> Revisit induction on derivations. | HW1 due Fri |
 | 5 | T | 9/26 | Imperative computation | **Advised**. Winskel Ch. 2<br/> **Recommended**. Harper Ch. 34 |  |
 |  | R | 9/28 | Imperative computation |  |  |
 | 6 | T | 10/3 | Functions | **Advised**. Harper Ch. 8-9 |  |
