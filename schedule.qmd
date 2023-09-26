@@ -29,7 +29,7 @@ The readings will be classified into the following order of recommendation:
 |  | R | 9/21 | Type safety | **Advised**. Harper 2.4; Winskel 3.4 and Ch. 4<br/> Revisit induction on derivations. | HW1 due Fri |
 | 5 | T | 9/26 | Functions | **Advised**. Harper 8.1-8.2, 9.1-9.2, and 10.1-10.2 (Functions).<br/> Sections 8.3-8.4, 9.3-9.4, and 10.3 can be considered supplemental. |  |
 |  | R | 9/28 | Finite data types |  **Advised**. Harper Ch. 11.1-11.2 and 12.1-12.3 (Products and Sums).<br/> It is ok to skim 11.2 and 12.2-12.3. Section 11.3 can be considered supplemental. |  |
-| 6 | T | 10/3 | Imperative computation | **Supplemental**. Harper Ch. 34-35 |  |
+| 6 | T | 10/3 | Imperative computation | **Recommended**. Review Winskel Ch. 2<br/><br/> **Supplemental**. Harper Ch. 34-35 |  |
 |  | R | 10/5 | Imperative computation | | HW2 due Fri |
 | 7 | T | 10/10 | Denotational semantics | **Advised**. Winskel Ch. 5 |  |
 |  | R | 10/12 | Denotational semantics |  |  |
