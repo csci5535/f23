@@ -16,7 +16,7 @@ All students should have received a welcome e-mail from me on how to get set up 
 
 ![Bor-Yuh Evan Chang](assets/chang.jpg) <br/>
 [Prof. Bor-Yuh Evan Chang](http://plv.colorado.edu/bec/) <br/>
-**Regular Office Hours**: Tue 3:15pm-4:00pm ECCS 114F, Thu 1:00pm-1:45pm ECCS 114J
+**Regular Office Hours**: Tue 3:15pm-4:00pm ECCS 121C (inside ECCS 121)
 
 <!--
 ## Course Assistant
