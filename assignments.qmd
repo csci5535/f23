@@ -6,9 +6,15 @@ title: "Assignments"
 
 Homework solutions should be submitted by 6:00 p.m. on the due date (with an automatic twenty-four hour extension). Please take note of the distinction between the assignment deadline and the automatic extension. Questions about the assignment may not answered as promptly after the deadline, particularly when the extension extends into the weekend. Early submissions are welcome.
 
+## Homework Assignment 2
+  
+**Due Friday, October 6, 2023**
+
+- [Handout](https://github.com/csci5535-f23/hw02/blob/main/hw02.pdf)
+
 ## Homework Assignment 1
   
-**Due Friday, September 8, 2023**
+**Due Friday, September 22, 2023**
 
 - [Handout](https://github.com/csci5535-f23/hw01/blob/main/hw01.pdf)
 
