@@ -63,6 +63,7 @@ The readings will be classified into the following order of recommendation:
 Post a note on Piazza to introduce yourself and tell me about your background.
 
 What's your background?
+
 - Comfort with functional programming?
 - Comfort with mathematical logic and induction?
 - Experience with building language tools (interpreters, translators)?
