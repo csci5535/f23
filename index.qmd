@@ -4,11 +4,9 @@ title: "Fundamentals of Programming Languages"
 
 Class meetings are Tuesdays and Thursdays 2:00pm-3:15pm in ECCR 1B51.
 
-<!--
-Please check the following calendar for the latest information about office hours and potentially review and help sessions.
+Please check the following calendar for the latest information about office hours and other class events.
 
-<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&mode=WEEK&height=600&wkst=1&bgcolor=%23FFFFFF&src=colorado.edu_7urh5rdc32h3lbhfp25bh0dds0%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
--->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDenver&mode=AGENDA&src=Y19jZDlkY2M4YzYyMWJiNDRkZGZlNDc2NTE1MTY2NTdmYzNkOGMyYWY5MmIyOTZmMzNmZWI4Nzg0OTY2NWY4YjE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23B39DDB" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
 All students should have received a welcome e-mail from me on how to get set up with the course tools. If you did not receive such a message, please send me an e-mail. All further correspondence will be via Piazza.
 
@@ -16,7 +14,7 @@ All students should have received a welcome e-mail from me on how to get set up 
 
 ![Bor-Yuh Evan Chang](assets/chang.jpg) <br/>
 [Prof. Bor-Yuh Evan Chang](http://plv.colorado.edu/bec/) <br/>
-**Regular Office Hours**: Tue 3:15pm-4:00pm ECCS 121C (inside ECCS 121)
+**Regular Office Hours**: Tue 3:15pm-4:00pm and Thu 1:00pm-1:45pm in ECCS 121C (inside ECCS 121)
 
 <!--
 ## Course Assistant
