@@ -31,14 +31,14 @@ The readings will be classified into the following order of recommendation:
 |  | R | 9/28 | Finite data types |  **Advised**. Harper Ch. 11.1-11.2 and 12.1-12.3 (Products and Sums).<br/> It is ok to skim 11.2 and 12.2-12.3. Section 11.3 can be considered supplemental. |  |
 | 6 | T | 10/3 | Imperative computation | **Recommended**. Review Winskel Ch. 2<br/><br/> **Supplemental**. Harper Ch. 34-35 |  |
 |  | R | 10/5 | Imperative computation | | HW2 due Fri |
-| 7 | T | 10/10 | Denotational semantics | **Advised**. Winskel Ch. 5 |  |
-|  | R | 10/12 | Denotational semantics |  |  |
-| 8 | T | 10/17 | Recursive types |  |  |
-|  | R | 10/19 | Parametric polymorphism |  | HW3 due Fri |
-| 9 | T | 10/24 | Axiomatic semantics |  |  |
-|  | R | 10/26 | Axiomatic semantics |  |  |
-| 10 | T | 10/31 | Control flow: Exceptions and continuations |  |  |
-|  | R | 11/2 | Control flow: Exceptions and continuations |  |  |
+| 7 | T | 10/10 | Recursion |  |  |
+|  | R | 10/12 | Recursion |  |  |
+| 8 | T | 10/17 | Denotational semantics | **Advised**. Winskel Ch. 5   |  |
+|  | R | 10/19 | Denotational semantics | **Advised**. Winskel Ch. 8<br/> Read for the general concepts, not the details.<br/><br/> **Supplemental**. David Schmidt. [Denotational Semantics: A Methodology for Language Development](http://people.cs.ksu.edu/~schmidt/text/densem.html).<br/> This is a full textbook on denotational semantics. |  |
+| 9 | T | 10/24 | Recursive types | **Advised**. Harper 19.1-19.2 and 20.1 (Recursion and Recursive Types).<br/> Sections 19.3-19.5 and 20.2-20.4 can be considered supplemental. |  |
+|  | R | 10/26 | Parametric polymorphism | **Advised**. Harper 16.1 (Parametric Polymorphism).<br/> Sections 16.2-16.3 can be considered supplemental.<br/><br/> **Recommended**. Harper 17.1 (Abstract Types)<br/> Sections 17.2-17.4 can be considered supplemental. |  |
+| 10 | T | 10/31 | Axiomatic semantics |  |  |
+|  | R | 11/2 | Axiomatic semantics |  | HW3 due Fri |
 | 11 | T | 11/7 | Verification-condition generation |  |  |
 |  | R | 11/9 | Verification-condition generation |  |  |
 | 12 | T | 11/14 | Abstract interpretation |  |  |
