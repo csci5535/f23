@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://csci5535.cs.colorado.edu/f23/assignments.html</loc>
-    <lastmod>2023-09-26T21:56:30.982Z</lastmod>
+    <loc>https://csci5535.cs.colorado.edu/f23/index.html</loc>
+    <lastmod>2023-10-16T21:59:56.283Z</lastmod>
   </url>
   <url>
-    <loc>https://csci5535.cs.colorado.edu/f23/index.html</loc>
-    <lastmod>2023-09-26T21:56:28.902Z</lastmod>
+    <loc>https://csci5535.cs.colorado.edu/f23/assignments.html</loc>
+    <lastmod>2023-10-16T21:59:54.083Z</lastmod>
   </url>
   <url>
     <loc>https://csci5535.cs.colorado.edu/f23/schedule.html</loc>
-    <lastmod>2023-09-26T21:56:30.146Z</lastmod>
+    <lastmod>2023-10-16T21:59:55.295Z</lastmod>
   </url>
 </urlset>
