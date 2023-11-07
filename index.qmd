@@ -12,15 +12,15 @@ All students should have received a welcome e-mail from me on how to get set up 
 
 ## Instructor
 
-![Bor-Yuh Evan Chang](assets/chang.jpg) <br/>
-[Prof. Bor-Yuh Evan Chang](http://plv.colorado.edu/bec/) <br/>
+[![](https://github.com/bechang.png?size=100)](https://github.com/bechang) <br/>
+[Prof. Bor-Yuh Evan Chang](https://plv.colorado.edu/bec/) <br/>
 **Regular Office Hours**: Tue 3:15pm-4:00pm and Thu 1:00pm-1:45pm in ECCS 121C (inside ECCS 121)
 
-<!--
 ## Course Assistant
 
-TBD
--->
+[![](https://github.com/octalsrc.png?size=100)](https://github.com/octalsrc) <br/>
+[Nicholas V. Lewchenko](https://www.octalsrc.org/research)
+**Regular Office Hours**: Wed 2:30pm-3:30pm and Fri 10:30am-11:30am in ECCS 114G
 
 # Course Overview
 
