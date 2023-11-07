@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Homework solutions should be submitted by 6:00 p.m. on the due date (with an automatic twenty-four hour extension). Please take note of the distinction between the assignment deadline and the automatic extension. Questions about the assignment may not answered as promptly after the deadline, particularly when the extension extends into the weekend. Early submissions are welcome.\n\n\nDue Friday, November 3, 2023\n\nHandout\n\n\n\n\nDue Friday, October 6, 2023\n\nHandout\n\n\n\n\nDue Friday, September 22, 2023\n\nHandout\n\n\n\n\nDue Friday, September 8, 2023\n\nHandout"
+  },
+  {
+    "objectID": "assignments.html#homework-assignment-3",
+    "href": "assignments.html#homework-assignment-3",
+    "title": "Assignments",
+    "section": "",
+    "text": "Due Friday, November 3, 2023\n\nHandout"
+  },
+  {
+    "objectID": "assignments.html#homework-assignment-2",
+    "href": "assignments.html#homework-assignment-2",
+    "title": "Assignments",
+    "section": "",
+    "text": "Due Friday, October 6, 2023\n\nHandout"
+  },
+  {
+    "objectID": "assignments.html#homework-assignment-1",
+    "href": "assignments.html#homework-assignment-1",
+    "title": "Assignments",
+    "section": "",
+    "text": "Due Friday, September 22, 2023\n\nHandout"
+  },
+  {
+    "objectID": "assignments.html#homework-assignment-0",
+    "href": "assignments.html#homework-assignment-0",
+    "title": "Assignments",
+    "section": "",
+    "text": "Due Friday, September 8, 2023\n\nHandout"
+  },
+  {
+    "objectID": "assignments.html#project-guidelines",
+    "href": "assignments.html#project-guidelines",
+    "title": "Assignments",
+    "section": "Project Guidelines",
+    "text": "Project Guidelines\nStudents are expected to select and complete a substantial course project during the semester on a topic related to the class.\nProjects should be done in groups of two (other group compositions must be discussed on a case-by-case basis). The expectations will naturally depend on the number of group members.\nThe first step is to submit a project proposal. The proposal should explain what you expect to learn from the project (i.e., why is it interesting to you?) and should include a work schedule. Make sure to budget time for writing a short project paper (~5 pages) describing the project and for preparing a short (~15-20 minutes, depends on number of projects) project presentation during the last week of classes. The main purpose of the proposal is for me to give you feedback on its feasibility.\nThe main goal of the project is to allow you to customize the content of the course to your own interests. The goal is not to force you all to produce novel results in one semester. Course projects like this often lead to collaborations that eventually yield exciting research. In the hopefully-likely event that you end up enjoying your project, come see me about taking it further (say, to publication)."
+  },
+  {
+    "objectID": "assignments.html#project-dates",
+    "href": "assignments.html#project-dates",
+    "title": "Assignments",
+    "section": "Project Dates",
+    "text": "Project Dates\n\nA pre-proposal is due on TBD.\nThe project proposal is due on TBD.\nA project status update is due on TBD.\nProject presentations will be held during the last week of classes.\nThe project paper is due on TBD."
+  },
+  {
+    "objectID": "assignments.html#project-scale",
+    "href": "assignments.html#project-scale",
+    "title": "Assignments",
+    "section": "Project Scale",
+    "text": "Project Scale\nI do not expect each project to lead to novel results, though I hope some projects could eventually lead to publication!\n\nI do expect a consistent effort on the project. Once we stop having weekly homework assignments, that amount of time should be entirely directed towards your project.\nNotably, “one long weekend” will not suffice. I can tell. Trust me.\nYou are welcome to tackle a more ambitious project. Such a project should have “stages” so that you have something to show at the end of the semester. I (or your advisor) can provide extra guidance on such projects.\nThe number of group members should depend on the size of the project. Note that the grading for a two-person project will actually require “twice as much work” than a one-person project rather than the standard “1.5-times as much work”. You should be able to split up the project paper (e.g., “I did section 1, Grace Hopper did section 2, and we shared section 3”)."
+  },
+  {
+    "objectID": "assignments.html#project-kinds",
+    "href": "assignments.html#project-kinds",
+    "title": "Assignments",
+    "section": "Project Kinds",
+    "text": "Project Kinds\nProjects on any subject related to the class are acceptable. The goal is to allow you to customize the project to your interests. There are two main types of projects: implementation projects, theory projects, and research projects.\nIn general, I recommend that you try to do a research project. They are typically a bit harder because they typically involve both theory and implementation.\nUndergraduate students may undertake implementation or theory projects but are free to pursue research projects. Graduate students must aim for a research project.\n\nImplementation Projects\nPick a fragment of a language or a relevant algorithm, and implement it! There is no firm limit on the amount of code.\nAn implementation project should feature “numbers”: controlled, experimental results that help to sway your audience in favor of a point you are making. You should actually have a point: “I implemented a register allocator” is not quite good enough. You will want something more like: “Graph-coloring register allocation yields fewer spills and thus smaller and faster code than greedy register allocation. On the X benchmarks for the Y architecture, replacing a greedy register allocator in the Z compiler with a graph-coloring one resulting in a A% decrease in code size and a B% decrease in average executing time.”\nYour implementation must be relevant to language design or analysis. It could also be relevant to language implementation, provided that it has sufficient conceptual content and is close enough to the course. Graph-coloring register allocation wouldn’t actually cut it.\n\n\nTheory Projects\nTheoretical projects are similar in spirit to implementation projects, except that they deliver a system of formal definitions and proofs rather than a collection of source code. Rather than evaluate the system empirically, using “numbers”, theory projects are evaluated based on what they prove.\n\n\nResearch Projects\nThere are many kinds of research projects, including the following:\n\nDesign and implement a program analysis\nInvent a language or a language feature for some particular purpose or with some particular characteristic (e.g., to make program analysis and understanding more tractable)\nTry to formalize some interesting aspect of some existing language\nExplore novel techniques for implementing a given language fragment\n\nThese projects are harder because they always involve some survey work and often involve some implementation. If you want to do a research project, and you are not yet sufficiently familiar with the area of the project, you should start with a brief survey and then turn it into a research project. While research is necessarily open-ended, be sure that you have a well-defined goal for the end of the semester so that you have something to write up and present."
+  },
+  {
+    "objectID": "assignments.html#the-proposal",
+    "href": "assignments.html#the-proposal",
+    "title": "Assignments",
+    "section": "The Proposal",
+    "text": "The Proposal\nYour proposal should address at least the following questions:\n\nWho are the members of your team?\nWhat basic problem will your project try to solve?\nDefine the problem that you will solve as concretely as possible. Provide a scope of expected and potential results. Give a few example programs that exhibit the problem that you are trying to solve.\nWhat is the general approach that you intend to use to solve the problem?\nWhy do you think that approach will solve the problem? What resources (papers, book chapters, etc.) do you plan to base your solution on? Is there one in particular that you plan to follow? What about your solution will be similar? What will be different?\nHow do you plan to demonstrate your idea?\nHow will you evaluate your idea? What will be the measurement for success?\n\nYour proposal should be concise and specific. Do not be long-winded or vague. You will not be graded on the length of the proposal, but you will be graded on how many interesting things you say.\nYour pre-proposal should consist of answers to at least the first two questions. The purpose of the pre-proposal is to help you get started thinking about your project and discussing with me as needed."
+  },
+  {
+    "objectID": "assignments.html#the-status-update",
+    "href": "assignments.html#the-status-update",
+    "title": "Assignments",
+    "section": "The Status Update",
+    "text": "The Status Update\nThe status update is a short write-up. It should explain what you have done so far and how you plan to meet your goals in the final weeks of the project. Like your proposal, you will not be graded on the length of your status update but rather on how concrete you are on where you are."
+  },
+  {
+    "objectID": "assignments.html#the-presentation",
+    "href": "assignments.html#the-presentation",
+    "title": "Assignments",
+    "section": "The Presentation",
+    "text": "The Presentation\nThe presentation should be short and should describe what the problem was, what the difficulties were, and what was accomplished or learned. You will find it much easier to prepare the talk using slides (perhaps 8 to 12 slides, depending on your speed).\nWhile preparing the talk keep in mind who your audience is. You will be presenting to colleagues who are eager to find out (1) about new exciting facets of compilation and (2) how much fun you had. Plan to motivate the project (i.e., why is this important?) and to describe what you learned from it. Keep in mind that your colleagues have not read all the papers that you have read to do the project.\nProject presentations will be held on the final week of classes. Students presenting on Tuesday will receive a small amount of extra credit to make up for presenting earlier."
+  },
+  {
+    "objectID": "assignments.html#the-paper",
+    "href": "assignments.html#the-paper",
+    "title": "Assignments",
+    "section": "The Paper",
+    "text": "The Paper\nYour write up at the end of the semester should be in the form of a short research paper. The project paper should have an abstract and an introduction describing the tackled problem, its motivation, and a very brief summary of the accomplishment. Then you should write a description of your notations (especially if they are different from what we used in class). Then you continue with the body of the material. The paper should end with a conclusion putting in perspective the accomplishment of the project and mentioning the open problems and with a bibliography of cited papers. Research papers should also have a related work section in which they compare the work with previous research results.\nYou might want to browse the papers from PLDI or POPL. Aside from giving you a number of data points for how the paper should look graphically, reading the electronic editions might help you to find a topic. Extending previously-published work is often not a bad start.\nYour project paper should be ~10 pages, as necessary, while being as concise and concrete as possible. Like your proposal, you will not be graded on length but on how many interesting things you say. You will turn in a PDF as well as your implementation code. You will want to use the LaTeX class file produced by ACM/SIGPLAN."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "The following schedule lists the topics we will cover and approximately the number of meetings we will spend on each topic. The schedule is tentative. Most likely, some things will change during the semester, and I will revise the schedule as necessary.\nThe Reading column lists the assigned reading for the meeting. You should view the readings as an introduction to spark discussion in class.\nThe Assignment column lists the due date for each assignment.\nThe readings will be classified into the following order of recommendation:\n\nAdvised (i.e., expected, required, and of highest importance) — assigned.\nRecommended (i.e., important but read after previous category) — assigned.\nSupplemental (i.e., additional material for a different perspective) – optional.\nFun (i.e., related fun additional material) – optional.\n\n\nWeek-By-Week\n\n\n\nWeek\n\nDate\nTopic\nReading\nAssignment\n\n\n\n\n1\nT\n8/29\nWelcome and course overview meeting01\n\nPost a note on Piazza to introduce yourself. Review the Course Syllabus.\n\n\n\nR\n8/31\nClassic application: Model checking and counterexample-guided abstraction refinement meeting02 meeting02-hw00 meeting02-slides\nSupplemental. Thomas Ball and Sriram K. Rajamani. The SLAM Project: Debugging System Software via Static Analysis. Symposium on Principles of Programming Languages (POPL), 2002.Supplemental. Thomas Ball and Sriram K. Rajamani. Automatically Validating Temporal Safety Properties of Interfaces. International SPIN Workshop, 2001. Recommended. Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, and Gregoire Sutre. Lazy Abstraction. Symposium on Principles of Programming Languages (POPL), 2002. Software model checking with counterexample-guided abstraction refinement marked a major milestone in taking automated reasoning techniques into industrial practice.\n\n\n\n2\nT\n9/5\nJudgments and rules\nAdvised. Harper Ch. 1.1; Winskel Ch. 1 and 3.1-3.3. Provides some preliminaries for HW0 (optional depending on your background). Rest of Harper Ch. 1 is helpful but “supplemental” for HW0. Supplemental. Pierce Ch. 2 and 3.1-3.3. Another take on mathematical preliminaries for HW0 (optional depending on your background).\n\n\n\n\nR\n9/7\nJudgments and rules\nAdvised. Harper Ch. 2. It is ok to skim 2.4 and 2.6-2.7 for now.\nHW0 due Fri\n\n\n3\nT\n9/12\nStatics and dynamics\nAdvised. Harper Ch. 3 It is ok to skim 3.3-3.4 for now. Advised. Winskel Ch. 2 Sections 2.1-2.5 defines a big-step operational semantics for a simple imperative language IMP. Then, Section 2.6 sketches a small-step operational semantics.\n\n\n\n\nR\n9/14\nStatics and dynamics\nAdvised. Harper Ch. 4-5 and 7.1-7.2 It is ok to skim 5.4 for now. Recommended. Pierce 3.4 A high-level overview of the three basic approaches to formalizing semantics.\n\n\n\n4\nT\n9/19\nType safety\nAdvised. Harper Ch. 6 and 7.3 About type safety. Supplemental. Pierce 3.5 and Ch. 8 Another take on operational semantics and type safety.\n\n\n\n\nR\n9/21\nType safety\nAdvised. Harper 2.4; Winskel 3.4 and Ch. 4 Revisit induction on derivations.\nHW1 due Fri\n\n\n5\nT\n9/26\nFunctions\nAdvised. Harper 8.1-8.2, 9.1-9.2, and 10.1-10.2 (Functions). Sections 8.3-8.4, 9.3-9.4, and 10.3 can be considered supplemental.\n\n\n\n\nR\n9/28\nFinite data types\nAdvised. Harper Ch. 11.1-11.2 and 12.1-12.3 (Products and Sums). It is ok to skim 11.2 and 12.2-12.3. Section 11.3 can be considered supplemental.\n\n\n\n6\nT\n10/3\nImperative computation\nRecommended. Review Winskel Ch. 2 Supplemental. Harper Ch. 34-35\n\n\n\n\nR\n10/5\nImperative computation\n\nHW2 due Fri\n\n\n7\nT\n10/10\nRecursion\n\n\n\n\n\nR\n10/12\nRecursion\n\n\n\n\n8\nT\n10/17\nDenotational semantics\nAdvised. Winskel Ch. 5\n\n\n\n\nR\n10/19\nDenotational semantics\nAdvised. Winskel Ch. 8 Read for the general concepts, not the details. Supplemental. David Schmidt. Denotational Semantics: A Methodology for Language Development. This is a full textbook on denotational semantics.\n\n\n\n9\nT\n10/24\nRecursive types\nAdvised. Harper 16.1-16.2 and 15.1 (Recursion and Recursive Types). Sections 16.3-16.5 and 15.2-15.4 can be considered supplemental.\n\n\n\n\nR\n10/26\nParametric polymorphism\nAdvised. Harper 20.1 (Parametric Polymorphism). Sections 20.2-20.3 can be considered supplemental. Recommended. Harper 21.1 (Abstract Types) Sections 21.2-21.4 can be considered supplemental.\n\n\n\n10\nT\n10/31\nDenotational semantics\n\n\n\n\n\nR\n11/2\nRecursive types\n\nHW3 due Fri\n\n\n11\nT\n11/7\nAxiomatic semantics\nAdvised. Winskel Ch. 6 Recommended. Winskel Ch. 7. It is ok to skim 7.1 and 7.3.\n\n\n\n\nR\n11/9\nAbstract machines\nAdvised. Harper 27.1-27.2 (Control Stacks). Sections 27.3 can be considered supplemental. Recommended. Harper 28.1-28.2 and 29.1-29.2 (Exceptions and Continuations). Sections 28.3-28.4 and 29.3 can be considered supplemental.\n\n\n\n12\nT\n11/14\nVerification-condition generation\n\n\n\n\n\nR\n11/16\nAbstract interpretation\n\n\n\n\n13\nT\n11/21\nNo class: Thanksgiving\n\n\n\n\n\nR\n11/23\nNo class: Thanksgiving\n\n\n\n\n14\nT\n11/28\nResearch application\n\n\n\n\n\nR\n11/30\nResearch application\n\n\n\n\n15\nT\n12/5\nFinal exam review\n\n\n\n\n\nR\n12/7\nFinal exam: evening (time TBD)\n\n\n\n\n16\nT\n12/12\nFinal project presentations\n\n\n\n\n\nR\n12/14\nFinal project presentations\n\n\n\n\n17\nT\n12/19\nFinals week\n\n\n\n\n\n\n\nPost Introduction and Background\nPost a note on Piazza to introduce yourself and tell me about your background.\nWhat’s your background?\n\nComfort with functional programming?\nComfort with mathematical logic and induction?\nExperience with building language tools (interpreters, translators)?\nWhat do you want out of this class?\n\nIf you prefer, you can send a separate private note to me about your background."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Fundamentals of Programming Languages",
@@ -124,103 +222,5 @@
     "title": "Fundamentals of Programming Languages",
     "section": "Religious Observances",
     "text": "Religious Observances\nWe will go by the policy for religious observances set forth by the University:\n\nCampus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments, or required attendance. we will try to accommodate religious conflicts in a reasonable manner. Please check the exam dates and submit all requests for adjustments within the first four weeks of class. See the campus policy regarding religious observances for full details."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "The following schedule lists the topics we will cover and approximately the number of meetings we will spend on each topic. The schedule is tentative. Most likely, some things will change during the semester, and I will revise the schedule as necessary.\nThe Reading column lists the assigned reading for the meeting. You should view the readings as an introduction to spark discussion in class.\nThe Assignment column lists the due date for each assignment.\nThe readings will be classified into the following order of recommendation:\n\nAdvised (i.e., expected, required, and of highest importance) — assigned.\nRecommended (i.e., important but read after previous category) — assigned.\nSupplemental (i.e., additional material for a different perspective) – optional.\nFun (i.e., related fun additional material) – optional.\n\n\nWeek-By-Week\n\n\n\nWeek\n\nDate\nTopic\nReading\nAssignment\n\n\n\n\n1\nT\n8/29\nWelcome and course overview meeting01\n\nPost a note on Piazza to introduce yourself. Review the Course Syllabus.\n\n\n\nR\n8/31\nClassic application: Model checking and counterexample-guided abstraction refinement meeting02 meeting02-hw00 meeting02-slides\nSupplemental. Thomas Ball and Sriram K. Rajamani. The SLAM Project: Debugging System Software via Static Analysis. Symposium on Principles of Programming Languages (POPL), 2002.Supplemental. Thomas Ball and Sriram K. Rajamani. Automatically Validating Temporal Safety Properties of Interfaces. International SPIN Workshop, 2001. Recommended. Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, and Gregoire Sutre. Lazy Abstraction. Symposium on Principles of Programming Languages (POPL), 2002. Software model checking with counterexample-guided abstraction refinement marked a major milestone in taking automated reasoning techniques into industrial practice.\n\n\n\n2\nT\n9/5\nJudgments and rules\nAdvised. Harper Ch. 1.1; Winskel Ch. 1 and 3.1-3.3. Provides some preliminaries for HW0 (optional depending on your background). Rest of Harper Ch. 1 is helpful but “supplemental” for HW0. Supplemental. Pierce Ch. 2 and 3.1-3.3. Another take on mathematical preliminaries for HW0 (optional depending on your background).\n\n\n\n\nR\n9/7\nJudgments and rules\nAdvised. Harper Ch. 2. It is ok to skim 2.4 and 2.6-2.7 for now.\nHW0 due Fri\n\n\n3\nT\n9/12\nStatics and dynamics\nAdvised. Harper Ch. 3 It is ok to skim 3.3-3.4 for now. Advised. Winskel Ch. 2 Sections 2.1-2.5 defines a big-step operational semantics for a simple imperative language IMP. Then, Section 2.6 sketches a small-step operational semantics.\n\n\n\n\nR\n9/14\nStatics and dynamics\nAdvised. Harper Ch. 4-5 and 7.1-7.2 It is ok to skim 5.4 for now. Recommended. Pierce 3.4 A high-level overview of the three basic approaches to formalizing semantics.\n\n\n\n4\nT\n9/19\nType safety\nAdvised. Harper Ch. 6 and 7.3 About type safety. Supplemental. Pierce 3.5 and Ch. 8 Another take on operational semantics and type safety.\n\n\n\n\nR\n9/21\nType safety\nAdvised. Harper 2.4; Winskel 3.4 and Ch. 4 Revisit induction on derivations.\nHW1 due Fri\n\n\n5\nT\n9/26\nFunctions\nAdvised. Harper 8.1-8.2, 9.1-9.2, and 10.1-10.2 (Functions). Sections 8.3-8.4, 9.3-9.4, and 10.3 can be considered supplemental.\n\n\n\n\nR\n9/28\nFinite data types\nAdvised. Harper Ch. 11.1-11.2 and 12.1-12.3 (Products and Sums). It is ok to skim 11.2 and 12.2-12.3. Section 11.3 can be considered supplemental.\n\n\n\n6\nT\n10/3\nImperative computation\nRecommended. Review Winskel Ch. 2 Supplemental. Harper Ch. 34-35\n\n\n\n\nR\n10/5\nImperative computation\n\nHW2 due Fri\n\n\n7\nT\n10/10\nRecursion\n\n\n\n\n\nR\n10/12\nRecursion\n\n\n\n\n8\nT\n10/17\nDenotational semantics\nAdvised. Winskel Ch. 5\n\n\n\n\nR\n10/19\nDenotational semantics\nAdvised. Winskel Ch. 8 Read for the general concepts, not the details. Supplemental. David Schmidt. Denotational Semantics: A Methodology for Language Development. This is a full textbook on denotational semantics.\n\n\n\n9\nT\n10/24\nRecursive types\nAdvised. Harper 16.1-16.2 and 15.1 (Recursion and Recursive Types). Sections 16.3-16.5 and 15.2-15.4 can be considered supplemental.\n\n\n\n\nR\n10/26\nParametric polymorphism\nAdvised. Harper 20.1 (Parametric Polymorphism). Sections 20.2-20.3 can be considered supplemental. Recommended. Harper 21.1 (Abstract Types) Sections 21.2-21.4 can be considered supplemental.\n\n\n\n10\nT\n10/31\nAxiomatic semantics\n\n\n\n\n\nR\n11/2\nAxiomatic semantics\n\nHW3 due Fri\n\n\n11\nT\n11/7\nVerification-condition generation\n\n\n\n\n\nR\n11/9\nVerification-condition generation\n\n\n\n\n12\nT\n11/14\nAbstract interpretation\n\n\n\n\n\nR\n11/16\nAbstract interpretation\n\n\n\n\n13\nT\n11/21\nNo class: Thanksgiving\n\n\n\n\n\nR\n11/23\nNo class: Thanksgiving\n\n\n\n\n14\nT\n11/28\nResearch application\n\n\n\n\n\nR\n11/30\nResearch application\n\n\n\n\n15\nT\n12/5\nFinal exam review\n\n\n\n\n\nR\n12/7\nFinal exam: evening (time TBD)\n\n\n\n\n16\nT\n12/12\nFinal project presentations\n\n\n\n\n\nR\n12/14\nFinal project presentations\n\n\n\n\n17\nT\n12/19\nFinals week\n\n\n\n\n\n\n\nPost Introduction and Background\nPost a note on Piazza to introduce yourself and tell me about your background.\nWhat’s your background?\n\nComfort with functional programming?\nComfort with mathematical logic and induction?\nExperience with building language tools (interpreters, translators)?\nWhat do you want out of this class?\n\nIf you prefer, you can send a separate private note to me about your background."
-  },
-  {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "Assignments",
-    "section": "",
-    "text": "Homework solutions should be submitted by 6:00 p.m. on the due date (with an automatic twenty-four hour extension). Please take note of the distinction between the assignment deadline and the automatic extension. Questions about the assignment may not answered as promptly after the deadline, particularly when the extension extends into the weekend. Early submissions are welcome.\n\n\nDue Friday, November 3, 2023\n\nHandout\n\n\n\n\nDue Friday, October 6, 2023\n\nHandout\n\n\n\n\nDue Friday, September 22, 2023\n\nHandout\n\n\n\n\nDue Friday, September 8, 2023\n\nHandout"
-  },
-  {
-    "objectID": "assignments.html#homework-assignment-3",
-    "href": "assignments.html#homework-assignment-3",
-    "title": "Assignments",
-    "section": "",
-    "text": "Due Friday, November 3, 2023\n\nHandout"
-  },
-  {
-    "objectID": "assignments.html#homework-assignment-2",
-    "href": "assignments.html#homework-assignment-2",
-    "title": "Assignments",
-    "section": "",
-    "text": "Due Friday, October 6, 2023\n\nHandout"
-  },
-  {
-    "objectID": "assignments.html#homework-assignment-1",
-    "href": "assignments.html#homework-assignment-1",
-    "title": "Assignments",
-    "section": "",
-    "text": "Due Friday, September 22, 2023\n\nHandout"
-  },
-  {
-    "objectID": "assignments.html#homework-assignment-0",
-    "href": "assignments.html#homework-assignment-0",
-    "title": "Assignments",
-    "section": "",
-    "text": "Due Friday, September 8, 2023\n\nHandout"
-  },
-  {
-    "objectID": "assignments.html#project-guidelines",
-    "href": "assignments.html#project-guidelines",
-    "title": "Assignments",
-    "section": "Project Guidelines",
-    "text": "Project Guidelines\nStudents are expected to select and complete a substantial course project during the semester on a topic related to the class.\nProjects should be done in groups of two (other group compositions must be discussed on a case-by-case basis). The expectations will naturally depend on the number of group members.\nThe first step is to submit a project proposal. The proposal should explain what you expect to learn from the project (i.e., why is it interesting to you?) and should include a work schedule. Make sure to budget time for writing a short project paper (~5 pages) describing the project and for preparing a short (~15-20 minutes, depends on number of projects) project presentation during the last week of classes. The main purpose of the proposal is for me to give you feedback on its feasibility.\nThe main goal of the project is to allow you to customize the content of the course to your own interests. The goal is not to force you all to produce novel results in one semester. Course projects like this often lead to collaborations that eventually yield exciting research. In the hopefully-likely event that you end up enjoying your project, come see me about taking it further (say, to publication)."
-  },
-  {
-    "objectID": "assignments.html#project-dates",
-    "href": "assignments.html#project-dates",
-    "title": "Assignments",
-    "section": "Project Dates",
-    "text": "Project Dates\n\nA pre-proposal is due on TBD.\nThe project proposal is due on TBD.\nA project status update is due on TBD.\nProject presentations will be held during the last week of classes.\nThe project paper is due on TBD."
-  },
-  {
-    "objectID": "assignments.html#project-scale",
-    "href": "assignments.html#project-scale",
-    "title": "Assignments",
-    "section": "Project Scale",
-    "text": "Project Scale\nI do not expect each project to lead to novel results, though I hope some projects could eventually lead to publication!\n\nI do expect a consistent effort on the project. Once we stop having weekly homework assignments, that amount of time should be entirely directed towards your project.\nNotably, “one long weekend” will not suffice. I can tell. Trust me.\nYou are welcome to tackle a more ambitious project. Such a project should have “stages” so that you have something to show at the end of the semester. I (or your advisor) can provide extra guidance on such projects.\nThe number of group members should depend on the size of the project. Note that the grading for a two-person project will actually require “twice as much work” than a one-person project rather than the standard “1.5-times as much work”. You should be able to split up the project paper (e.g., “I did section 1, Grace Hopper did section 2, and we shared section 3”)."
-  },
-  {
-    "objectID": "assignments.html#project-kinds",
-    "href": "assignments.html#project-kinds",
-    "title": "Assignments",
-    "section": "Project Kinds",
-    "text": "Project Kinds\nProjects on any subject related to the class are acceptable. The goal is to allow you to customize the project to your interests. There are two main types of projects: implementation projects, theory projects, and research projects.\nIn general, I recommend that you try to do a research project. They are typically a bit harder because they typically involve both theory and implementation.\nUndergraduate students may undertake implementation or theory projects but are free to pursue research projects. Graduate students must aim for a research project.\n\nImplementation Projects\nPick a fragment of a language or a relevant algorithm, and implement it! There is no firm limit on the amount of code.\nAn implementation project should feature “numbers”: controlled, experimental results that help to sway your audience in favor of a point you are making. You should actually have a point: “I implemented a register allocator” is not quite good enough. You will want something more like: “Graph-coloring register allocation yields fewer spills and thus smaller and faster code than greedy register allocation. On the X benchmarks for the Y architecture, replacing a greedy register allocator in the Z compiler with a graph-coloring one resulting in a A% decrease in code size and a B% decrease in average executing time.”\nYour implementation must be relevant to language design or analysis. It could also be relevant to language implementation, provided that it has sufficient conceptual content and is close enough to the course. Graph-coloring register allocation wouldn’t actually cut it.\n\n\nTheory Projects\nTheoretical projects are similar in spirit to implementation projects, except that they deliver a system of formal definitions and proofs rather than a collection of source code. Rather than evaluate the system empirically, using “numbers”, theory projects are evaluated based on what they prove.\n\n\nResearch Projects\nThere are many kinds of research projects, including the following:\n\nDesign and implement a program analysis\nInvent a language or a language feature for some particular purpose or with some particular characteristic (e.g., to make program analysis and understanding more tractable)\nTry to formalize some interesting aspect of some existing language\nExplore novel techniques for implementing a given language fragment\n\nThese projects are harder because they always involve some survey work and often involve some implementation. If you want to do a research project, and you are not yet sufficiently familiar with the area of the project, you should start with a brief survey and then turn it into a research project. While research is necessarily open-ended, be sure that you have a well-defined goal for the end of the semester so that you have something to write up and present."
-  },
-  {
-    "objectID": "assignments.html#the-proposal",
-    "href": "assignments.html#the-proposal",
-    "title": "Assignments",
-    "section": "The Proposal",
-    "text": "The Proposal\nYour proposal should address at least the following questions:\n\nWho are the members of your team?\nWhat basic problem will your project try to solve?\nDefine the problem that you will solve as concretely as possible. Provide a scope of expected and potential results. Give a few example programs that exhibit the problem that you are trying to solve.\nWhat is the general approach that you intend to use to solve the problem?\nWhy do you think that approach will solve the problem? What resources (papers, book chapters, etc.) do you plan to base your solution on? Is there one in particular that you plan to follow? What about your solution will be similar? What will be different?\nHow do you plan to demonstrate your idea?\nHow will you evaluate your idea? What will be the measurement for success?\n\nYour proposal should be concise and specific. Do not be long-winded or vague. You will not be graded on the length of the proposal, but you will be graded on how many interesting things you say.\nYour pre-proposal should consist of answers to at least the first two questions. The purpose of the pre-proposal is to help you get started thinking about your project and discussing with me as needed."
-  },
-  {
-    "objectID": "assignments.html#the-status-update",
-    "href": "assignments.html#the-status-update",
-    "title": "Assignments",
-    "section": "The Status Update",
-    "text": "The Status Update\nThe status update is a short write-up. It should explain what you have done so far and how you plan to meet your goals in the final weeks of the project. Like your proposal, you will not be graded on the length of your status update but rather on how concrete you are on where you are."
-  },
-  {
-    "objectID": "assignments.html#the-presentation",
-    "href": "assignments.html#the-presentation",
-    "title": "Assignments",
-    "section": "The Presentation",
-    "text": "The Presentation\nThe presentation should be short and should describe what the problem was, what the difficulties were, and what was accomplished or learned. You will find it much easier to prepare the talk using slides (perhaps 8 to 12 slides, depending on your speed).\nWhile preparing the talk keep in mind who your audience is. You will be presenting to colleagues who are eager to find out (1) about new exciting facets of compilation and (2) how much fun you had. Plan to motivate the project (i.e., why is this important?) and to describe what you learned from it. Keep in mind that your colleagues have not read all the papers that you have read to do the project.\nProject presentations will be held on the final week of classes. Students presenting on Tuesday will receive a small amount of extra credit to make up for presenting earlier."
-  },
-  {
-    "objectID": "assignments.html#the-paper",
-    "href": "assignments.html#the-paper",
-    "title": "Assignments",
-    "section": "The Paper",
-    "text": "The Paper\nYour write up at the end of the semester should be in the form of a short research paper. The project paper should have an abstract and an introduction describing the tackled problem, its motivation, and a very brief summary of the accomplishment. Then you should write a description of your notations (especially if they are different from what we used in class). Then you continue with the body of the material. The paper should end with a conclusion putting in perspective the accomplishment of the project and mentioning the open problems and with a bibliography of cited papers. Research papers should also have a related work section in which they compare the work with previous research results.\nYou might want to browse the papers from PLDI or POPL. Aside from giving you a number of data points for how the paper should look graphically, reading the electronic editions might help you to find a topic. Extending previously-published work is often not a bad start.\nYour project paper should be ~10 pages, as necessary, while being as concise and concrete as possible. Like your proposal, you will not be graded on length but on how many interesting things you say. You will turn in a PDF as well as your implementation code. You will want to use the LaTeX class file produced by ACM/SIGPLAN."
   }
 ]
