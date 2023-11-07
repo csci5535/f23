@@ -19,7 +19,7 @@ All students should have received a welcome e-mail from me on how to get set up 
 ## Course Assistant
 
 [![](https://github.com/octalsrc.png?size=100)](https://github.com/octalsrc) <br/>
-[Nicholas V. Lewchenko](https://www.octalsrc.org/research)
+[Nicholas V. Lewchenko](https://www.octalsrc.org/research) <br/>
 **Regular Office Hours**: Wed 2:30pm-3:30pm and Fri 10:30am-11:30am in ECCS 114G
 
 # Course Overview
