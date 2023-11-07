@@ -37,11 +37,11 @@ The readings will be classified into the following order of recommendation:
 |  | R | 10/19 | Denotational semantics | **Advised**. Winskel Ch. 8<br/> Read for the general concepts, not the details.<br/><br/> **Supplemental**. David Schmidt. [Denotational Semantics: A Methodology for Language Development](http://people.cs.ksu.edu/~schmidt/text/densem.html).<br/> This is a full textbook on denotational semantics. |  |
 | 9 | T | 10/24 | Recursive types | **Advised**. Harper 16.1-16.2 and 15.1 (Recursion and Recursive Types).<br/> Sections 16.3-16.5 and 15.2-15.4 can be considered supplemental. |  |
 |  | R | 10/26 | Parametric polymorphism | **Advised**. Harper 20.1 (Parametric Polymorphism).<br/> Sections 20.2-20.3 can be considered supplemental.<br/><br/> **Recommended**. Harper 21.1 (Abstract Types)<br/> Sections 21.2-21.4 can be considered supplemental. |  |
-| 10 | T | 10/31 | Axiomatic semantics |  |  |
-|  | R | 11/2 | Axiomatic semantics |  | HW3 due Fri |
-| 11 | T | 11/7 | Verification-condition generation |  |  |
-|  | R | 11/9 | Verification-condition generation |  |  |
-| 12 | T | 11/14 | Abstract interpretation |  |  |
+| 10 | T | 10/31 | Denotational semantics |  |  |
+|  | R | 11/2 | Recursive types |  | HW3 due Fri |
+| 11 | T | 11/7 | Axiomatic semantics | **Advised**. Winskel Ch. 6<br/><br/> **Recommended**. Winskel Ch. 7.<br/> It is ok to skim 7.1 and 7.3. |  |
+|  | R | 11/9 | Abstract machines | **Advised**. Harper 27.1-27.2 (Control Stacks).<br/> Sections 27.3 can be considered supplemental.<br/><br/> **Recommended**. Harper 28.1-28.2 and 29.1-29.2 (Exceptions and Continuations).<br/> Sections 28.3-28.4 and 29.3 can be considered supplemental. |  |
+| 12 | T | 11/14 | Verification-condition generation |  |  |
 |  | R | 11/16 | Abstract interpretation |  |  |
 | 13 | T | 11/21 | No class: Thanksgiving |  |  |
 |  | R | 11/23 | No class: Thanksgiving |  |  |
