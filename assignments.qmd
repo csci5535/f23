@@ -68,12 +68,9 @@ The main goal of the project is to allow you to customize the content of the cou
 
 ## Project Dates
 
-* A pre-proposal is due on TBD.
-* The project proposal is due on TBD.
-* A project status update is due on TBD.
 * Project presentations will be held during the last week of classes.
-* The project paper is due on TBD.
-<!-- * Peer reviews on project papers are due on Monday, May 4, 2020. -->
+* The project paper is due on the Sunday of finals week.
+* Peer reviews on project papers (for extra credit) are due on the Monday of finals week.
 
 ## Project Scale
 
@@ -139,6 +136,20 @@ Your _pre-proposal_ should consist of answers to at least the first two question
 ## The Status Update
 
 The status update is a short write-up. It should explain what you have done so far and how you plan to meet your goals in the final weeks of the project. Like your proposal, you will not be graded on the length of your status update but rather on how concrete you are on where you are.
+
+## The Related Work Presentation
+
+The goal of the related work presentation is to help you dive deep on the paper most closely related to your final project by driving a discussion about it with the class. To do so, you will present the work as if you were the author of the paper. Make sure to follow the format for research artifacts, covering (1) what is fundamental problem being addressed by the work, (2) why is the problem important or interesting, (3) why is the problem hard or hasn't been satisfactorily addressed to date, (4) what is the contribution of the work, and (5) why is the claimed contribution indeed a contribution.
+
+In addition, you should connect the related work to your project (e.g., as a "Future Work" discussion in the presentation). The goal here is to help you refine the connection with your project in the form of a "mini-project proposal." It is a bit less involved than the Project Proposal, as you do not need to lay out the full landscape of related work.
+
+You may consult slides or recordings from the authors' for the paper your presenting, but you must speak from your perspective (and thus need to make your own slides).
+
+Logistically,
+
+1. Share a link to the paper with the class in advance (by the end of the week before your presentation).
+2. Sign up for a presentation slot.
+3. Submit your slides before your presentation.
 
 ## The Presentation
 

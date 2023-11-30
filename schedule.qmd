@@ -42,16 +42,16 @@ The readings will be classified into the following order of recommendation:
 | 11 | T | 11/7 | Axiomatic semantics | **Advised**. Winskel Ch. 6<br/><br/> **Recommended**. Winskel Ch. 7.<br/> It is ok to skim 7.1 and 7.3. |  |
 |  | R | 11/9 | Abstract machines | **Advised**. Harper 27.1-27.2 (Control Stacks).<br/> Sections 27.3 can be considered supplemental.<br/><br/> **Recommended**. Harper 28.1-28.2 and 29.1-29.2 (Exceptions and Continuations).<br/> Sections 28.3-28.4 and 29.3 can be considered supplemental. |  |
 | 12 | T | 11/14 | Verification-condition generation |  |  |
-|  | R | 11/16 | Abstract interpretation |  |  |
+|  | R | 11/16 | Abstract interpretation |  | HW4 due Fri |
 | 13 | T | 11/21 | No class: Thanksgiving |  |  |
 |  | R | 11/23 | No class: Thanksgiving |  |  |
 | 14 | T | 11/28 | Research application |  |  |
-|  | R | 11/30 | Research application |  |  |
-| 15 | T | 12/5 | Final exam review |  |  |
-|  | R | 12/7 | Final exam: evening (time TBD) |  |  |
+|    | R | 11/30 | Final exam preparation | | |
+| 15 | T | 12/5  | Related work presentations |  |  |
+|    | R | 12/7  | Related work presentations |  | |
 | 16 | T | 12/12 | Final project presentations |  |  |
-|  | R | 12/14 | Final project presentations |  |  |
-| 17 | T | 12/19 | Finals week |  |  |
+|    | R | 12/14 | Final project presentations | | |
+| 17 | T | 12/19 | No class: Finals week |  | Paper due Sun |
 
 [meeting01]: meetings/meeting01-welcome.class.pdf
 [meeting02]: meetings/meeting02.class.pdf
