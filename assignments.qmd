@@ -62,7 +62,7 @@ Students are expected to select and complete a substantial course project during
 
 Projects should be done in groups of **two** (other group compositions must be discussed on a case-by-case basis). The expectations will naturally depend on the number of group members.
 
-The first step is to submit a _project proposal_. The proposal should explain what you expect to learn from the project (i.e., why is it interesting to you?) and should include a work schedule. Make sure to budget time for writing a short _project paper_ (~5 pages) describing the project and for preparing a short (~15-20 minutes, depends on number of projects) _project presentation_ during the last week of classes. The main purpose of the proposal is for me to give you feedback on its feasibility.
+The first step is to submit a _project proposal_. The proposal should explain what you expect to learn from the project (i.e., why is it interesting to you?) and should include a work schedule. Make sure to budget time for writing a short _project paper_ (~10 pages) describing the project and for preparing a short (~15-20 minutes, depends on number of projects) _project presentation_ during the last week of classes. The main purpose of the proposal is for me to give you feedback on its feasibility.
 
 The main goal of the project is to allow you to customize the content of the course to your own interests. The goal is not to force you all to produce novel results in one semester. Course projects like this often lead to collaborations that eventually yield exciting research. In the hopefully-likely event that you end up enjoying your project, come see me about taking it further (say, to publication).
 
