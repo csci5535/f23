@@ -82,7 +82,7 @@ In this paper, we discuss the importance of prompting in large language models, 
 
 ### Karthik Sairam, Lawerence Khadka, and Emily Parker: Static Analysis of React Hooks
 
-Abstract: Hooks provide an ergonomic model for reasoning about states and effects in React.js components. But, they come with their own set of rules that the developers must manually abide by. Without a strict compile time verification of those rules, there exist chances of subtle bugs, slower than expected performance issues and infinite re-rendering of the UI, which can occur completely unbeknownst to the developer until the app is actually run. In this paper, we try to model the behaviour of these hooks in terms of the React Concurrent Fiber Architecture to identify such bugs much earlier in the development cycle.
+Hooks provide an ergonomic model for reasoning about states and effects in React.js components. But, they come with their own set of rules that the developers must manually abide by. Without a strict compile time verification of those rules, there exist chances of subtle bugs, slower than expected performance issues and infinite re-rendering of the UI, which can occur completely unbeknownst to the developer until the app is actually run. In this paper, we try to model the behaviour of these hooks in terms of the React Concurrent Fiber Architecture to identify such bugs much earlier in the development cycle.
 
 # Post Introduction and Background
 
