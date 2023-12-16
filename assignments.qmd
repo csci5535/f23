@@ -171,4 +171,4 @@ You might want to take a look at the [Paper Review Form](paper-review.txt) to ge
 
 ## Peer Review
 
-You will have the opportunity to write reviews of your peers' project papers _for extra credit_ using the Paper Review Process.
+You will have the opportunity to write reviews of your peers' project papers _for extra credit_ using the [Paper Review Form](paper-review.txt).
