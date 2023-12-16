@@ -1,0 +1,99 @@
+Paper Review Form
+
+Submission: (Title of the Paper)
+Authors: (Authors of the Paper)
+
+*Reviewer*: (Your Name)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Directions
+
+Use this form to evaluate and comment on this submission.  Your review will
+consist of three parts: a brief summary, ratings, and detailed comments that
+back up your ratings.  The author will receive your comments anonymously (i.e.,
+your name will be removed).  If there are certain comments you would like to
+convey to the instructor but do not wish to send to the author, please include
+them in the "confidential comments" section.
+
+Most papers will not represent finished products but rather good starts to
+interesting projects.  Try to make your comments as constructive as possible to
+help your peers improve their work.
+
+Note that this review form is modeled after ones used at peer-reviewed research
+conferences.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Summary
+
+Please give a summary of the main ideas of the paper:
+(This part is usually about three paragraphs covering (1) the broader context of
+the work, (2) the specific problem and contributions, and (3) the key insight of
+the work.)
+
+What is the strength of the paper?
+(Be concise and to the point. But raise as many points as necessary to justify
+your ratings.)
+
+What is the weakness of the paper?
+(Be concise and to the point. But raise as many points as necessary to justify
+your ratings.)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Ratings
+
+The project grade will be assigned separately from these ratings.  As
+stated before, the project grade will be based on whether sufficient
+work has been put into the project and not necessarily whether novel
+results have been obtained.
+
+Overall Evaluation
+    A:	Excellent paper. I'd really want to see this work pursued further.
+    B:	Good paper. I think the work is a solid course project.
+    C:	Weak paper, though the work is sufficient for a course project.
+    D:	Serious problems. This paper does not satisfactory demonstrate
+        sufficient effort on the course project.
+
+Convincing
+    A:	Totally convincing. The paper presents bullet-proof evidence (argument,
+        proof, or data) to demonstrate its main points.
+    B:	Typical. The evidence is not bullet-proof but is reasonable.
+    C:	Weak. The paper presents weak evidence to demonstrate its main points.
+    D:	Inadequate. I don't believe the main points in the paper.
+	 
+Worth solving
+    A:	Critical. The paper is in an area that desperately needs a solution.
+    B:	Useful. The paper is in an area that already has reasonable solutions
+        but prior solutions are not great.
+    C:	Okay. The paper is in an area that already has good solutions.
+    D:	Irrelevant. The paper solves a problem that is not worth solving.
+
+Novelty
+    A:	Extreme. Exposes a new field or way of thinking about a field.
+    B:	Solid. A new approach in an established field.
+    C:	Incremental. A straightforward next step to an existing idea.
+    D:	Known. This paper does not have anything new.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Detailed Comments
+
+Please supply detailed comments to back up your rankings. These comments will be
+forwarded to the author of the paper. The comments should guide the author in
+making revisions for future iterations. Hence, the more detailed you make your
+comments, the more useful your review will be for the author. A quality review
+typically requires at least 500 words --- and is the standard expectation in a
+conference peer-review.
+
+Enter comments here:
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Confidential Comments
+
+You may wish to withhold some comments from the author, and include them solely
+for the instructor. For example, you may want to express a very strong
+(negative) opinion on the paper, which might offend the author in some way.  Or,
+perhaps you wish to write something which would expose your identity to the
+author. If you wish to share comments of this nature, this is the place to put
+them.
+
+Enter comments here:
+
+
