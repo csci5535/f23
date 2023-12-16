@@ -167,8 +167,8 @@ You might want to browse the papers from [PLDI](https://dblp.org/db/conf/pldi/in
 
 Your project paper should be ~10 pages, as necessary, while being as concise and concrete as possible. Like your proposal, you will not be graded on length but on how many interesting things you say. You will turn in a PDF _as well as your implementation code_. You will want to use the [LaTeX class file](https://www.sigplan.org/Resources/Author/) produced by ACM/SIGPLAN.
 
-<!--
+You might want to take a look at the [Paper Review Form](paper-review.txt) to get a sense of how papers are evaluated.
+
 ## Peer Review
 
-You will have the opportunity to write reviews of your peers' project papers _for extra credit_. Take a look at the [Paper Review Form](assignments/paper-review.txt) for further details.
--->
+You will have the opportunity to write reviews of your peers' project papers _for extra credit_ using the Paper Review Process.
